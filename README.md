@@ -36,11 +36,11 @@ This Python script provides a command-line interface for connecting to an Adapti
 
 1. **Edit the script to set your database connection parameters**:
     ```python
-    server = '10.97.x.xxx'  
-    port = '8200'
-    user = 'user'
-    password = 'password'
-    database = 'database'
+    server = '<server>'  
+    port = '<port>'
+    user = '<username>'
+    password = '<password>'
+    database = '<database_name>' # You have the ability to switch db later.
     ```
 
 2. **Run the script**:
