@@ -34,7 +34,7 @@ This Python script provides a command-line interface for connecting to an Adapti
 
 ## Usage
 
-1. **Edit the script to set your database connection parameters**:
+1. **Edit the config.ini to set your database connection parameters**:
     ```python
     server = '<server>'  
     port = '<port>'
